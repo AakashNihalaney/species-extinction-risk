@@ -1,0 +1,13 @@
+# JMP binary data files — proprietary format, not renderable on GitHub
+*.jmp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+~$*
